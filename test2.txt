@@ -1,1 +1,3 @@
 Blablabla Ala ma kota.
+
+Dodanie nowej funkcjonalnosci
